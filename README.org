@@ -1,0 +1,10 @@
+* cl-association-rules
+
+For now, an implementation of the apriori algorithm to mine association rules in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/diogoalexandrefranco/cl-association-rules.git   |
+| commit  | 09b9d00  |
+| systems | cl-association-rules |
+|---------+-------------------------------------------|
+
